@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/Session.cpp
+Session.h
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/Session.h
+
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/Session.h
+
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/SimulatedAnnealing.cpp
+bits/stdc++.h
+-
+SimulatedAnnealing.h
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/SimulatedAnnealing.h
+
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/SimulatedAnnealing.h
+
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/main.cpp
+bits/stdc++.h
+-
+SimulatedAnnealing.h
+/media/sharvil/studies/MyProjects/CLionProjects/AIAssignment2/SimulatedAnnealing.h
+
